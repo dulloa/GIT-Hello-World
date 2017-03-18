@@ -1,3 +1,3 @@
-#Read Me First
+# Read Me First
 
-##GIT Meet Up Notes
+## GIT Meet Up Notes
