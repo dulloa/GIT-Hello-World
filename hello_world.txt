@@ -2,3 +2,5 @@ testing GIT
 figure out stuff
 
 testing branches
+
+testing conflicts
